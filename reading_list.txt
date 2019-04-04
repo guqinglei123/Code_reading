@@ -1,4 +1,0 @@
-Git is a version control system.
-Git is free software.
-这里主要记录一下github中不错的资源，以及阅读代码
-reading  list：
