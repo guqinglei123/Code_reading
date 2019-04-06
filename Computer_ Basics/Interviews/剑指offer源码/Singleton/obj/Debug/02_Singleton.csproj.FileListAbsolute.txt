@@ -1,0 +1,5 @@
+E:\Study_code\Interviews\Coding offer\剑指offer源码\Singleton\bin\Debug\Singleton.exe
+E:\Study_code\Interviews\Coding offer\剑指offer源码\Singleton\bin\Debug\Singleton.pdb
+E:\Study_code\Interviews\Coding offer\剑指offer源码\Singleton\obj\Debug\02_Singleton.csprojResolveAssemblyReference.cache
+E:\Study_code\Interviews\Coding offer\剑指offer源码\Singleton\obj\Debug\Singleton.exe
+E:\Study_code\Interviews\Coding offer\剑指offer源码\Singleton\obj\Debug\Singleton.pdb
