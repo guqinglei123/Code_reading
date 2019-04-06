@@ -39,6 +39,7 @@
 - [ ] https://github.com/wanggx/Linux2.6
 - [ ] https://github.com/wanggx/Linux1.0
 - [ ] https://github.com/gatieme/LDD-LinuxDeviceDrivers
+- [ ] https://github.com/guqinglei123/Code_reading/tree/master/Linux_Kernel/ldd3
 - [ ] https://github.com/manykits/PHOENIXEngine
 - [ ] https://github.com/Microsoft/Windows-iotcore-samples
 - [ ] https://github.com/phodal/iot
@@ -46,30 +47,37 @@
 
 
 ## 人工智能和自动驾驶（Autonomous_driving、Mobile_Robot、Planning）：
-### 自动驾驶
+### 自动驾驶：
 
 - [ ] https://github.com/udacity/self-driving-car
 - [ ] https://github.com/OSSDC/self-driving-car-1
 - [ ] https://github.com/gtarobotics/self-driving-car
+- [ ] https://github.com/yajian/self-driving-car
 - [ ] https://github.com/PolySync/oscc
 - [ ] https://github.com/commaai/openpilot
 - [ ] https://github.com/datlife/jetson-car
 - [ ] https://github.com/alexhagiopol/end-to-end-deep-learning
 - [ ] https://github.com/takeitallsource/awesome-autonomous-vehicles
 - [ ] https://github.com/virtualwiz/TensorRider_Self_Driving_Car
-- [ ] https://github.com/yajian/self-driving-car
 - [ ] https://github.com/dstarer/Robotics
 - [ ] https://github.com/Timthony/self_drive
-- [ ] https://github.com/slam4code/SLAM
-- [ ] https://github.com/slam4code/cartographer
 - [ ] https://github.com/slam4code/apollo
+- [ ] https://github.com/autowarefoundation/autoware
+- [ ] https://github.com/ApolloAuto/apollo
+
+###　移动机器人：
+
 - [ ] https://github.com/husky/husky_robot
 - [ ] https://github.com/husky/husky_desktop
 - [ ] https://github.com/husky/husky_customization
-- [ ] https://github.com/autowarefoundation/autoware
-- [ ] https://github.com/ApolloAuto/apollo
+- [ ] https://github.com/guqinglei123/Code_reading/tree/master/Mobile_Robot/Aria(linux)
+- [ ] https://github.com/slam4code/SLAM
+- [ ] https://github.com/slam4code/cartographer
+
+### Planing 算法
+
 - [ ] https://github.com/AtsushiSakai/PythonRobotics
-- [ ] https://github.com/guqinglei123/Code_reading/tree/master/Aria(linux)
+- [ ] https://github.com/guqinglei123/Code_reading/tree/master/planning/path-planing(Rahul%20Kala)
 
 ## 英语：
 - [ ] https://github.com/shimohq/chinese-programmer-wrong-pronunciation
