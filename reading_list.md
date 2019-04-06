@@ -1,8 +1,10 @@
 # github资源推荐以及代码阅读清单
 
-## 计算机基础（Computer_ Basics）
+## 计算机基础（Computer_Basics）
 https://github.com/guqinglei123/Code_reading/tree/master/Aria(linux)
-https://github.com/guqinglei123/Code_reading/tree/master/data_struct/dsa2013
+https://github.com/guqinglei123/Code_reading/tree/master/Computer_%20Basics/C%20Programming%20Code
+https://github.com/guqinglei123/Code_reading/tree/master/Computer_%20Basics/C%2B%2B%20primer%205th
+https://github.com/guqinglei123/Code_reading/tree/master/Computer_%20Basics/dsa2013
 https://github.com/chyyuu/ucore_os_lab
 https://github.com/chyyuu/ucore_os_plus
 https://github.com/gatieme/CodingInterviews
@@ -65,9 +67,6 @@ https://github.com/husky/husky_customization
 https://github.com/autowarefoundation/autoware
 https://github.com/ApolloAuto/apollo
 https://github.com/AtsushiSakai/PythonRobotics
-
-## 面试相关：
-
 
 
 ## 字体：
