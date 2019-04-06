@@ -45,7 +45,9 @@
 - [ ] https://github.com/phodal/awesome-iot
 
 
-## 人工智能和自动驾驶（Aria(linux)、Autonomous_driving、husky、Planning）：
+## 人工智能和自动驾驶（Autonomous_driving、Mobile_Robot、Planning）：
+### 自动驾驶
+
 - [ ] https://github.com/udacity/self-driving-car
 - [ ] https://github.com/OSSDC/self-driving-car-1
 - [ ] https://github.com/gtarobotics/self-driving-car
