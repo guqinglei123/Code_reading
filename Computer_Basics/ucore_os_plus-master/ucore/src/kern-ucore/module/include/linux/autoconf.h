@@ -1,1 +1,0 @@
-../mach-goldfish/autoconf.h

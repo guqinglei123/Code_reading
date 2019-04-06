@@ -1,1 +1,0 @@
-obj-y := entry.o init.o

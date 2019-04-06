@@ -1,3 +1,0 @@
-.section .initrd,#alloc
-.incbin "DATA_FILE"
-
